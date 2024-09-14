@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
--[Robosoccer Team Using Reinforcement Learing](https://github.com/Tsilis5/Robocup-TeamPython)
--[Automated Played Matches in Robocup](https://github.com/Tsilis5/Robocup-automated-matches)
--[Metatrader Bot](https://github.com/Tsilis5/Metatrader-Bot)
+-[Robosoccer Team Using Reinforcement Learing](https://github.com/Tsilis5/Robocup-TeamPython)  
+-[Automated Played Matches in Robocup](https://github.com/Tsilis5/Robocup-automated-matches)  
+-[Metatrader Bot](https://github.com/Tsilis5/Metatrader-Bot)  
 
 
 
